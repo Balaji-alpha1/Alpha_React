@@ -1,1 +1,2 @@
 First code in text file
+Second Code
