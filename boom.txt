@@ -1,4 +1,4 @@
 First code in text file
 Second Code
 
---------------Text is updated=-----------------
+New text inserted
